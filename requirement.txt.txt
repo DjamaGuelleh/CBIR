@@ -1,0 +1,13 @@
+opencv-python
+mahotas
+numpy
+matplotlib
+tqdm
+tkinter
+PIL
+json
+os
+sys
+typing
+math
+pathlib
